@@ -8,6 +8,7 @@ The script `simple-interest.sh` asks the user for three inputs:
 - Time period (years)
 
 ## Formula
+
 Simple Interest = (Principal x Rate x Time) / 100
 
 ## Usage
